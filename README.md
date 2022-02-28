@@ -1,5 +1,9 @@
 # ThinkphpGUI
 自主开发的第一个JAVA图形化漏扫工具，支持ThinkPHP 2.x RCE，Thinkphp5 5.0.22/5.1.29RCE，ThinkPHP5 5.0.23RCE和ThinkPHP5 SQL注入漏洞和敏感信息泄露漏洞。
+因为刚学java没多久，所以工具做得不是很好，功能不多，非常简陋，日后会再改进。
+
+## 工具使用步骤：
+下载jar包之后，命令行输入 java -jar JAVA_ThinkphpScannerGUI_Done.jar即可运行。
 
 ### 1.工具整体样式
 ![图片](https://user-images.githubusercontent.com/64825932/155970803-c7bdc45c-f1ea-4ca3-b329-098a1c907969.png)
