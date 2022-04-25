@@ -13,13 +13,31 @@
 
 3、一键检测所有漏洞。
 
-**工具简介与界面展示**:
+**工具简介**:
 
 1、用JavaFX重构整个框架，完全代替了之前的Java Swing。
 2、页面干净整洁，没用的组件通通不要。
 3、工具从原来的ThinkphpScannerGUI正式改名为Aazhen。每个男人的心中都有一个属于他的阿珍，这个工具也是我的处女作，工具很落后，没什么人用，完全个人爱好，所以不好的地方轻点喷。
 
 <img src="https://user-images.githubusercontent.com/64825932/165022740-0d3aab02-7da3-4921-8c0f-f38dedd5c775.png" width="400px">
+
+**界面展示**：
+
+1、外观
+
+<img src="https://user-images.githubusercontent.com/64825932/165023241-5d358a78-ea30-4435-b63a-93480ea220f1.png" width="500px">
+
+①界面半透明 ②有了工具的小logo ③鼠标是一个小太阳 ④用了三种布局方式组合在一起。
+
+2、漏洞检测演示
+
+一键检测展示：
+<img src="https://user-images.githubusercontent.com/64825932/165023787-f10b3ae9-d905-4707-be3f-d386d10b8add.png" width="500px">
+<img src="https://user-images.githubusercontent.com/64825932/165024107-186484d9-ad8d-49d6-855e-e53025d728cf.png" width="500px">
+
+
+
+
 
 
 
