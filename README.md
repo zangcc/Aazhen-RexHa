@@ -32,8 +32,18 @@
 2、漏洞检测演示
 
 一键检测展示：
-<img src="https://user-images.githubusercontent.com/64825932/165023787-f10b3ae9-d905-4707-be3f-d386d10b8add.png" width="500px">
+
 <img src="https://user-images.githubusercontent.com/64825932/165024107-186484d9-ad8d-49d6-855e-e53025d728cf.png" width="500px">
+
+3、命令执行模块演示
+选择刚刚检测出来的漏洞版本，然后才能命令执行，输出结果：
+
+<img src="https://user-images.githubusercontent.com/64825932/165024541-3a49cf8d-462c-4012-a8e5-c8be16fabbec.png" width="500px">
+
+<img src="https://user-images.githubusercontent.com/64825932/165024860-fb180c14-cb55-4073-8761-af09d8ab590b.png" width="500px">
+
+
+4、菜单栏就不做展示了，大家可以自己下载来玩玩。
 
 
 
