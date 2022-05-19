@@ -1,3 +1,7 @@
+# Aazhen-V3.1 jar版本免费开源
+因为很多小伙伴说exe只支持win，linux或其他系统不兼容等问题，所以我今天把这个工具开源了，打包成了jar包可以下载，代码写得很烂，毕竟专业不是编程的，水平不够，见谅。
+
+
 # Aazhen-V3.1
 自研JavaFX图形化漏洞扫描工具，支持ThinkPHP 2.x RCE，Thinkphp5 5.0.22/5.1.29RCE，ThinkPHP5 5.0.23RCE和ThinkPHP5 SQL注入漏洞和敏感信息泄露漏洞的漏洞检测，以及命令执行的功能。漏洞POC基本适用ThinkPHP全版本漏洞。
 
