@@ -1,3 +1,36 @@
+# RexHa（Aazhen）新版本！！ -V 1.1
+hello，好久没更，工具改名成RexHa。工具的教程在我博客上（很详细）：
+https://blog.csdn.net/weixin_43847838/article/details/127396997?spm=1001.2014.3001.5501
+最新版RexHa工具的功能以及特点：
+
+①HttpClient替代旧版HttpUrlConection
+
+②多线程并发
+
+③重写了 7 个Payload
+
+上一个版本中，支持检测的漏洞只有4个，这次我直接加到了7个，基本上覆盖了ThinkPHP的大部分版本，支持扫描的漏洞分别是：
+    ThinkPHP-2.x-RCE，
+    ThinkPHP-5.0.23-RCE，
+    ThinkPHP5.0.x-5.0.23通杀RCE，
+    ThinkPHP5-SQL注入&敏感信息泄露，
+    ThinkPHP 3.x 日志泄露NO.1，
+    ThinkPHP 3.x 日志泄露NO.2，
+    ThinkPHP 5.x 数据库信息泄露。
+而且每一种漏洞都是经过靶场+实战验证，每个Payload我都能保证不会有问题，而且能够精准判断。
+
+④取消了旧版的命令执行功能
+
+⑤Aazhen改名成RexHa
+
+谢谢我的猫~❤️ 工具多了很多猫咪的元素在里面，本文后面也会细说。
+
+⑥url输入格式判断
+
+新版本的界面展示如下:
+
+<img src="https://user-images.githubusercontent.com/64825932/196480082-2fd8cb5a-eb20-4743-a893-5de22b89e8cf.png" width="400px">
+
 # Aazhen-V3.1 jar版本免费开源
 因为很多小伙伴说exe只支持win，linux或其他系统不兼容等问题，所以我今天把这个工具开源了，打包成了jar包可以下载，代码写得很烂，毕竟专业不是编程的，水平不够，见谅。
 
