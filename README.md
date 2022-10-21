@@ -2,6 +2,7 @@
 hello，好久没更，工具改名成RexHa。工具的教程在我博客上（很详细）：
 https://blog.csdn.net/weixin_43847838/article/details/127396997?spm=1001.2014.3001.5501
 最新版RexHa工具的功能以及特点：
+我是用java18开发的，jdk版本太低的话可能会运行不起来。
 
 ①HttpClient替代旧版HttpUrlConection
 
