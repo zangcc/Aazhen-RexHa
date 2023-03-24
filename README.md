@@ -1,3 +1,14 @@
+# 2023年3月24日RexHa（Aazhen）-V 1.1.1
+取消了其他java版本，只留java8/jdk1.8版本的。同时修改了部分源码，优化poc，运行方式有变动，启动方式为：
+
+java -javaagent:rexha.jar -jar rexha.jar
+
+
+<img src="https://user-images.githubusercontent.com/64825932/227475593-e2422e32-8ccb-4e84-a6bb-30fec3dd8c4a.png" width="400px">
+
+
+
+
 # 2022年10月23日RexHa（Aazhen）-V 1.1
 
 很多小伙伴反馈说java18那个版本无法运行，所以我又新增了一个jdk1.8版本的，这次绝壁没问题了。jdk1.8非常稳定，建议大家还是下载jdk1.8的版本。后续会陆续添加jdk11和14版本的，无奈，java开发东西就是得考虑到版本问题。望谅解。
